@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f59-0-0@gestor-cultural
+DTSTAMP:20261028T174901Z
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+SUMMARY:Álex Ubago: Gira 25 Aniversario
+DESCRIPTION:El cantautor español celebra 25 años de música con su gira 
+ ¿Qué pides tú?
+LOCATION:Teatro Mercedes Sosa\, San Martín 479\, San Miguel de Tucumán
+END:VEVENT
+END:VCALENDAR

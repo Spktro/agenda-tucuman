@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-23-0@gestor-cultural
+DTSTAMP:20261028T174855Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Primera apertura parcial del proyecto de puesta en valor de las mo
+ lduras del museo
+DESCRIPTION:Presentación de los avances en la conservación del patrimoni
+ o arquitectónico del museo\, realizada junto a docentes y estudiantes de 
+ la Facultad de Artes de la UNT. La placa no indica horario.\n\nMás info: 
+ https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo Provincial de Bellas Artes Timoteo Navarro\, 9 de Julio 44\
+ , San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

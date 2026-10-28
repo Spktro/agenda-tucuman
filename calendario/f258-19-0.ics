@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-19-0@gestor-cultural
+DTSTAMP:20261028T174852Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Música para nuestras islas
+DESCRIPTION:Museo en adhesión. Actuación de la Banda de Música Estable 
+ Municipal «Batalla de Famaillá».\n\nMás info: https://www.instagram.co
+ m/p/De7pGLBFDhY/
+LOCATION:Museo Municipal Islas Malvinas\, Parque Temático Histórico\, Fa
+ maillá
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

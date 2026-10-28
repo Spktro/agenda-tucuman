@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f84-0-0@gestor-cultural
+DTSTAMP:20261028T174903Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:La Noche de los Museos: 19° edición
+DESCRIPTION:Participan los 21 museos de la Red de Museos de Tucumán\, mus
+ eos adheridos y espacios invitados. Entrada libre y gratuita.\n\nMás info
+ : https://www.instagram.com/p/DehdTorOWLJ/
+LOCATION:Museos de la Red de Museos de Tucumán\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DehdTorOWLJ/
+END:VEVENT
+END:VCALENDAR

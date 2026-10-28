@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-9-0@gestor-cultural
+DTSTAMP:20261028T174850Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Ciencia hoy
+DESCRIPTION:Espacio invitado. Cinco estaciones interactivas (de la semilla
+  a la planta\, industrialización de la caña y del limón\, enfermedades 
+ y plagas\, ADN y bioinsumos\, drones e inteligencia artificial) con demost
+ raciones de científicos de la EEAOC y actividades para niños. Recorridos
+  por grupos\, sin horarios fijos y sujetos al cupo de cada espacio.\n\nMá
+ s info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:Estación Experimental Agroindustrial Obispo Colombres\, William 
+ Cross 3150\, Las Talitas
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

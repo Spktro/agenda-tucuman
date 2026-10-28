@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-15-0@gestor-cultural
+DTSTAMP:20261028T174855Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Integrantes del Coro Estable del Ente Cultural: tango
+DESCRIPTION:Integrantes del Coro Estable del Ente Cultural interpretan un 
+ repertorio de tango.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg
+ /
+LOCATION:Museo Histórico Nicolás Avellaneda\, Congreso 56\, San Miguel d
+ e Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

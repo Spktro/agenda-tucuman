@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f251-32-0@gestor-cultural
+DTSTAMP:20261028T174843Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Visitas guiadas a la luz de la luna
+DESCRIPTION:Recorrido guiado nocturno por los menhires\, iluminados indivi
+ dualmente.\n\nMás info: https://www.instagram.com/p/De49fyEoPfl/
+LOCATION:Museo Arqueológico Los Menhires\, Av. Los Menhires s/n\, El Moll
+ ar
+URL:https://www.instagram.com/p/De49fyEoPfl/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-60-0@gestor-cultural
+DTSTAMP:20261028T174859Z
+DTSTART:20261031T233000Z
+DTEND:20261101T013000Z
+SUMMARY:Espectáculo musical
+DESCRIPTION:Concierto de la Banda del Liceo Militar Gral. Aráoz de Lamadr
+ id y danzas folclóricas y tango a cargo del Ballet San Miguel.\n\nMás in
+ fo: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo del Ejército\, 25 de Mayo 1029\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

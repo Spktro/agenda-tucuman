@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-45-0@gestor-cultural
+DTSTAMP:20261028T174849Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Desguace
+DESCRIPTION:Espacio invitado. Muestra colectiva de Luciana Martínez\, Ver
+ ónica Galván y María José Fernández Pascual\, con textos de Ceci Vega
+ . El espacio cierra a las 00 h.\n\nMás info: https://www.instagram.com/p/
+ De_7BNFFKwQ/
+LOCATION:Mercado Cultural Municipal\, Colón y Slivano Bores\, Monteros
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

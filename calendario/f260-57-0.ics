@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-57-0@gestor-cultural
+DTSTAMP:20261028T174858Z
+DTSTART:20261031T223000Z
+DTEND:20261101T003000Z
+SUMMARY:Muestra permanente
+DESCRIPTION:Objetos\, fotos y cartas que recrean los orígenes del primer 
+ Asilo de Huérfanos de la provincia\, de la congregación de Hermanas Domi
+ nicas y la vida de sus fundadores.\n\nMás info: https://www.instagram.com
+ /p/De5WbqMlKUg/
+LOCATION:Museo-Archivo Elmina Paz Gallo\, Av. Sarmiento 253\, San Miguel d
+ e Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

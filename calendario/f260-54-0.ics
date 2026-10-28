@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-54-0@gestor-cultural
+DTSTAMP:20261028T174858Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:América indígena: diversidad cultural y tecnología antigua
+DESCRIPTION:Recorrido durante toda la noche por la muestra arqueológica y
+  etnográfica permanente. La placa no aclara en cuál de las dos sedes se 
+ encuentra.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo de Arqueología IAM - FCN - UNT\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

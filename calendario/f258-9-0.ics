@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-9-0@gestor-cultural
+DTSTAMP:20261028T174854Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Memoria del azúcar
+DESCRIPTION:Museo en adhesión. Propuesta de danza y poesía\; la placa no
+  indica la hora\, el museo abre a las 18 h.\n\nMás info: https://www.inst
+ agram.com/p/De7pGLBFDhY/
+LOCATION:Museo Municipal de la Caña de Azúcar Bernabé Araoz\, Belgrano 
+ 475\, Monteros
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

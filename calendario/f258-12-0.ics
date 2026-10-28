@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-12-0@gestor-cultural
+DTSTAMP:20261028T174851Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Nuestros héroes de Malvinas: los protagonistas
+DESCRIPTION:Museo en adhesión. Muestra de homenaje a los veteranos y a lo
+ s caídos en el conflicto de 1982. Muestras abiertas desde las 19 h\; la j
+ ornada cierra a las 23 h.\n\nMás info: https://www.instagram.com/p/De7pGL
+ BFDhY/
+LOCATION:Museo Municipal Islas Malvinas\, Parque Temático Histórico\, Fa
+ maillá
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p207-0@gestor-cultural
+DTSTAMP:20261028T174904Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Visitas guiadas a la Casa Histórica
+DESCRIPTION:Martes a domingos y feriados a las 10\, 11:30\, 17 y 18:30 hor
+ as.\n\nMás info: https://www.instagram.com/p/DdUqsG0nA-G/
+LOCATION:Casa Histórica\, Congreso 151
+URL:https://www.instagram.com/p/DdUqsG0nA-G/
+END:VEVENT
+END:VCALENDAR

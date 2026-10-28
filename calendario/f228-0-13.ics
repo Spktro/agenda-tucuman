@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f228-0-13@gestor-cultural
+DTSTAMP:20261028T174839Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Street Fighter
+DESCRIPTION:Los Street Fighters Ryu y Ken se reúnen cuando Chun-Li los re
+ cluta para el World Warrior Tournament (Torneo Mundial de Guerreros). Mien
+ tras se enfrentan a una conspiración oculta\, deben enfrentarse entre sí
+  y a su pasado\, o enfrentarse a la destrucción.\n\nMás info: https://ww
+ w.cineatlasweb.com.ar/pelicula/58/72c0e8a4e0929fc1e12dbc0347ec36ad
+LOCATION:Cine Atlas Vía 24\, 24 de Septiembre 757\, San Miguel de Tucumá
+ n
+URL:https://www.cineatlasweb.com.ar/pelicula/58/72c0e8a4e0929fc1e12dbc0347
+ ec36ad
+END:VEVENT
+END:VCALENDAR

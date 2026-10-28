@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f83-19-0@gestor-cultural
+DTSTAMP:20261028T174903Z
+DTSTART:20261031T233000Z
+DTEND:20261101T013000Z
+SUMMARY:53° Salón Nacional Tucumán Artes Visuales 2026
+DESCRIPTION:Inauguración y premiación en la Noche de los Museos\; la exp
+ osición sigue hasta el 11 de diciembre.\n\nMás info: https://entecultura
+ ltucuman.gob.ar/noticias/el-festivalito-de-artes-visuales-dio-inicio-al-tu
+ cuman-arte-2026/
+LOCATION:Museo Provincial de Bellas Artes Timoteo E. Navarro\, 9 de Julio 
+ 44\, San Miguel de Tucumán
+URL:https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-vi
+ suales-dio-inicio-al-tucuman-arte-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-8-0@gestor-cultural
+DTSTAMP:20261028T174850Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Historia institucional y patrimonio
+DESCRIPTION:Espacio invitado. Parte del recorrido «Historia\, patrimonio 
+ y ciencia» por los 117 años de la EEAOC: documentos\, fotografías\, obj
+ etos e instrumentos científicos\, siete relatos audiovisuales y recorrido
+  por el edificio histórico y sus jardines. Recorridos por grupos\, sin ho
+ rarios fijos y sujetos al cupo de cada espacio.\n\nMás info: https://www.
+ instagram.com/p/De_7BNFFKwQ/
+LOCATION:Estación Experimental Agroindustrial Obispo Colombres\, William 
+ Cross 3150\, Las Talitas
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

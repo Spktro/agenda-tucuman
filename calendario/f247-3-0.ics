@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-3-0@gestor-cultural
+DTSTAMP:20261028T174841Z
+DTSTART:20261031T233000Z
+DTEND:20261101T013000Z
+SUMMARY:Serenata en el Balcón
+DESCRIPTION:Propuesta musical participativa con micrófono abierto en el b
+ alcón de la Casa Museo.\n\nMás info: https://www.instagram.com/p/De9rhBk
+ Fh7Y/
+LOCATION:Casa Museo de la Ciudad\, Salta 532\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

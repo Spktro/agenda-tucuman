@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f253-0-0@gestor-cultural
+DTSTAMP:20261028T174844Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Apertura del salón principal e inauguración del 53.º Salón Nac
+ ional de Tucumán
+DESCRIPTION:El museo reabre parcialmente su salón principal e inaugura el
+  53.º Salón Nacional de Tucumán\, con obras seleccionadas y premiadas d
+ e artistas de distintos puntos del país. La inauguración de la reserva S
+ pilimbergo (19:30) es solo para autoridades\, con acceso restringido.\n\nM
+ ás info: https://www.instagram.com/p/De5F7TUoHIi/
+LOCATION:Museo Provincial de Bellas Artes Timoteo Navarro\, 9 de Julio 44\
+ , San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5F7TUoHIi/
+END:VEVENT
+END:VCALENDAR

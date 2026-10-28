@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-6-0@gestor-cultural
+DTSTAMP:20261028T174853Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Talleres participativos
+DESCRIPTION:Museo en adhesión. Talleres de bordado\, costura y elaboraci
+ ón de atrapasueños a cargo de Patricia Mercado.\n\nMás info: https://ww
+ w.instagram.com/p/De7pGLBFDhY/
+LOCATION:Centro Cultural Iramain\, Ruta 341 / Km. 20.5\, Raco
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

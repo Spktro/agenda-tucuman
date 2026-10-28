@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f252-0-0@gestor-cultural
+DTSTAMP:20261028T174843Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Inauguración del 53.º Salón Nacional de Artes Visuales
+DESCRIPTION:Inauguración de la 53.ª edición del Salón Nacional de Arte
+ s Visuales\, que regresa a su sede histórica en el Museo Provincial de Be
+ llas Artes Timoteo Navarro. La inauguración de la reserva Spilimbergo (19
+ :30) es solo para autoridades\, con acceso restringido.\n\nMás info: http
+ s://www.instagram.com/p/De9gfqIMp3x/
+LOCATION:Museo Provincial de Bellas Artes Timoteo Navarro\, 9 de Julio 44\
+ , San Miguel de Tucumán
+URL:https://www.instagram.com/p/De9gfqIMp3x/
+END:VEVENT
+END:VCALENDAR

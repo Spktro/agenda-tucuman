@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f210-0-10@gestor-cultural
+DTSTAMP:20261028T174837Z
+DTSTART:20261220T041000Z
+DTEND:20261220T061000Z
+SUMMARY:Avengers Doomsday
+DESCRIPTION:Héroes de tres universos distintos se verán arrastrados haci
+ a una colisión mortal y enfrentarán una amenaza existencial como ninguna
+  otra que hayan encontrado.\n\nMás info: https://www.cineatlasweb.com.ar/
+ pelicula/54/44f6a4706702667ce49d99736a191343
+LOCATION:Cine Atlas Monteagudo\, Monteagudo 250\, San Miguel de Tucumán
+URL:https://www.cineatlasweb.com.ar/pelicula/54/44f6a4706702667ce49d99736a
+ 191343
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-21-0@gestor-cultural
+DTSTAMP:20261028T174855Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Poesía\, una reunión de cuerpos alrededor de la palabra
+DESCRIPTION:Experiencia colectiva que explora la poesía a través del jue
+ go\, el humor y el absurdo\, a cargo de Maximiliano Castro.\n\nMás info: 
+ https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo Iramain\, Entre Ríos 27\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

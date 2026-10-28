@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f138-0-0@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:Wonka\, el musical
+DESCRIPTION:Espectáculo musical con canciones y coreografías para disfru
+ tar en familia.\n\nMás info: https://www.instagram.com/p/DeqDhpLyxH6/
+LOCATION:Centro Cultural Virla\, 25 de Mayo 265\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DeqDhpLyxH6/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f88-0-0@gestor-cultural
+DTSTAMP:20261028T174903Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:XVIII Salón Nacional de Arte Contemporáneo
+DESCRIPTION:Inauguración y premiación del salón\, con 43 obras seleccio
+ nadas entre más de 500 postulaciones.\n\nMás info: https://secretariaext
+ ension.unt.edu.ar/conocelos-seleccionados-para-el-el-xviii-salon-nacional-
+ de-arte-contemporaneo/
+LOCATION:MUNT\, San Martín 1545\, San Miguel de Tucumán
+URL:https://secretariaextension.unt.edu.ar/conocelos-seleccionados-para-el
+ -el-xviii-salon-nacional-de-arte-contemporaneo/
+END:VEVENT
+END:VCALENDAR

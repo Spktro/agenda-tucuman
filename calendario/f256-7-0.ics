@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-7-0@gestor-cultural
+DTSTAMP:20261028T174850Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Cuerpos de la memoria
+DESCRIPTION:Espacio invitado. Instalación en homenaje a los maestros Isau
+ ro y Arturo Arancibia\, a 50 años de sus asesinatos\, con el archivo foto
+ gráfico de Isauro Arancibia\, documentos y un dibujo original de Ricardo 
+ Carpani.\n\nMás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:Agremiación Tucumana de Educadores Provinciales\, San Lorenzo 43
+ 4\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p182-0@gestor-cultural
+DTSTAMP:20261028T174904Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Plum! Festival Internacional de Animación 2026
+DESCRIPTION:Cuarta edición del único festival de animación del NOA: com
+ petencia de cortos\, masterclass\, workshops y laboratorio de proyectos.\n
+ \nMás info: https://www.instagram.com/p/DePlQZwG3TW/
+LOCATION:Tafí del Valle
+URL:https://www.instagram.com/p/DePlQZwG3TW/
+END:VEVENT
+END:VCALENDAR

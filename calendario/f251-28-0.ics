@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f251-28-0@gestor-cultural
+DTSTAMP:20261028T174843Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:Recorrido por el Sitio Fundacional de San Miguel de Tucumán (1565
+ )
+DESCRIPTION:Recorrido por el sitio fundacional de 1565: plaza principal\, 
+ cabildo\, conventos de las órdenes jesuita\, franciscana y mercedaria\, y
+  calles y manzanas de los siglos XVI y XVII.\n\nMás info: https://www.ins
+ tagram.com/p/De49fyEoPfl/
+LOCATION:Museo Arqueológico a Cielo Abierto Ibatín\, Ibatín\, Monteros
+URL:https://www.instagram.com/p/De49fyEoPfl/
+END:VEVENT
+END:VCALENDAR

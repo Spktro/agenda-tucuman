@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-6-0@gestor-cultural
+DTSTAMP:20261028T174859Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Clodomiro Lazarte y una ronda de amigos
+DESCRIPTION:Visita a la muestra permanente del museo junto a una muestra c
+ olectiva de artes visuales en torno a Clodomiro Lazarte y una ronda de ami
+ gos.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo Casa Padilla\, 25 de Mayo 36\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

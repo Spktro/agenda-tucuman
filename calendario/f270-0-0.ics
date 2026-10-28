@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f270-0-0@gestor-cultural
+DTSTAMP:20261028T174900Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Visita libre al Archivo Histórico de la Provincia
+DESCRIPTION:El Archivo Histórico de la Provincia participa de la Noche de
+  los Museos con una propuesta para conocer y valorar el patrimonio documen
+ tal de Tucumán. La publicación no detalla actividades\, horario ni direc
+ ción.\n\nMás info: https://www.instagram.com/p/DewwIbfxFZm/
+LOCATION:Archivo Histórico de la Provincia\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DewwIbfxFZm/
+END:VEVENT
+END:VCALENDAR

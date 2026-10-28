@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-22-0@gestor-cultural
+DTSTAMP:20261028T174852Z
+DTSTART:20261101T013000Z
+DTEND:20261101T033000Z
+SUMMARY:Encuentro con la historia
+DESCRIPTION:Museo en adhesión. Recorrido libre por las muestras hasta el 
+ cierre de la jornada\, a las 23 h.\n\nMás info: https://www.instagram.com
+ /p/De7pGLBFDhY/
+LOCATION:Museo Municipal Islas Malvinas\, Parque Temático Histórico\, Fa
+ maillá
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

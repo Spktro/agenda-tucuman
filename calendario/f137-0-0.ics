@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f137-0-0@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261101T220000Z
+DTEND:20261102T000000Z
+SUMMARY:Juan Quintero: Pago Querido
+DESCRIPTION:Recital al atardecer. Con lluvia\, se traslada al Complejo Led
+ esma (25 de Mayo 971).\n\nMás info: https://www.instagram.com/p/DerLiTvxe
+ qw/
+LOCATION:Casa de la Cultura\, Parque 9 de Julio\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DerLiTvxeqw/
+END:VEVENT
+END:VCALENDAR

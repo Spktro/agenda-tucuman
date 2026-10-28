@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f245-4-0@gestor-cultural
+DTSTAMP:20261028T174840Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Visita libre a la muestra permanente
+DESCRIPTION:Recorrido por la muestra permanente de la Casa Histórica\, Mu
+ seo Nacional de la Independencia.\n\nMás info: https://www.instagram.com/
+ p/DfAYEmEnJex/
+LOCATION:Casa Histórica\, Congreso 141\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DfAYEmEnJex/
+END:VEVENT
+END:VCALENDAR

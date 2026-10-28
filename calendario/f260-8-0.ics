@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-8-0@gestor-cultural
+DTSTAMP:20261028T174900Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Micro relatos
+DESCRIPTION:Lectura de cuentos a cargo de alumnos del Instituto Peter Pan 
+ y del Colegio San Francisco.\n\nMás info: https://www.instagram.com/p/De5
+ WbqMlKUg/
+LOCATION:Museo Casa Padilla\, 25 de Mayo 36\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

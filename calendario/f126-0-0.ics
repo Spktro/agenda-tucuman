@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f126-0-0@gestor-cultural
+DTSTAMP:20261028T174834Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+SUMMARY:Encuentro musical en CiTá
+DESCRIPTION:Canciones de distintos tiempos\, con Eric Aguirre como apertur
+ a. Reservas al 381 573 4046.\n\nMás info: https://www.instagram.com/p/Der
+ vn4_iTPH/
+LOCATION:CiTá Abasto de Cultura\, La Madrid 1457\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/Dervn4_iTPH/
+END:VEVENT
+END:VCALENDAR

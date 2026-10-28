@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p51-0@gestor-cultural
+DTSTAMP:20261028T174904Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261101
+SUMMARY:34° Encuentro Nacional de Poetas\, Escritores y Cantautores Manue
+ l Aldonate
+DESCRIPTION:Encuentro nacional de poetas\, escritores y cantautores\, con 
+ actividades desde las 16 horas.
+LOCATION:Monteros
+END:VEVENT
+END:VCALENDAR

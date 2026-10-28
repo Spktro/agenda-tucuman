@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-18-0@gestor-cultural
+DTSTAMP:20261028T174855Z
+DTSTART:20261101T010000Z
+DTEND:20261101T030000Z
+SUMMARY:Pasacalles Sikuris
+DESCRIPTION:Pasacalles con Labranzas\, ensamble de música andina\, y cant
+ o con caja por Andrea Mamondes.\n\nMás info: https://www.instagram.com/p/
+ De5WbqMlKUg/
+LOCATION:Museo Histórico Nicolás Avellaneda\, Congreso 56\, San Miguel d
+ e Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

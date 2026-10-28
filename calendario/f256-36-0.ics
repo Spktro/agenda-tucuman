@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-36-0@gestor-cultural
+DTSTAMP:20261028T174848Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Experiencia sensorial y recreativa
+DESCRIPTION:Espacio invitado. Oler\, tocar\, sentir\, saborear\, jugar y a
+ prender. Muestras abiertas desde las 19 h.\n\nMás info: https://www.insta
+ gram.com/p/De_7BNFFKwQ/
+LOCATION:Centro de Interpretación de la Zafra Azucarera de Famaillá\, Pa
+ rque Temático Histórico\, Famaillá
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f53-0-0@gestor-cultural
+DTSTAMP:20261028T174900Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Dyango: Su amigo Dyango Vol. II
+DESCRIPTION:El referente de la canción romántica recorre sus clásicos y
+  presenta su nuevo álbum.
+LOCATION:Teatro Mercedes Sosa\, San Martín 479\, San Miguel de Tucumán
+END:VEVENT
+END:VCALENDAR

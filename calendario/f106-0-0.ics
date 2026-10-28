@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f106-0-0@gestor-cultural
+DTSTAMP:20261028T174834Z
+DTSTART:20261030T200000Z
+DTEND:20261030T220000Z
+SUMMARY:Cocoliche: sesión pictórica
+DESCRIPTION:Tarde de pintura con artistas en vivo\, feria gráfica de fanz
+ ines y grabados\, visuales y música.\n\nMás info: https://www.instagram.
+ com/p/DeuGIkdkc0p/
+LOCATION:La Sodería Casa de Teatro\, Juan José Posse 1141\, San Miguel d
+ e Tucumán
+URL:https://www.instagram.com/p/DeuGIkdkc0p/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f245-2-0@gestor-cultural
+DTSTAMP:20261028T174840Z
+DTSTART:20261031T221500Z
+DTEND:20261101T001500Z
+SUMMARY:A sus plantas rendido un león
+DESCRIPTION:Intervención escénico-musical en el primer patio sobre aspec
+ tos poco conocidos del Himno Nacional Argentino\, con dirección de Nicol
+ ás Aráoz.\n\nMás info: https://www.instagram.com/p/DfAYEmEnJex/
+LOCATION:Casa Histórica\, Congreso 141\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DfAYEmEnJex/
+END:VEVENT
+END:VCALENDAR

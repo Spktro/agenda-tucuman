@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-2-0@gestor-cultural
+DTSTAMP:20261028T174852Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:La Noche de las Ánimas
+DESCRIPTION:Museo en adhesión. Teatro literario en dos actos con relatos 
+ del Valle en torno a la muerte: el primero a las 20 h en la capilla\, con 
+ inscripción previa en @clubdeanfitriones.tdv\, y el segundo a las 21 h en
+  el patio del Aljibe\, con ingreso por orden de llegada.\n\nMás info: htt
+ ps://www.instagram.com/p/De7pGLBFDhY/
+LOCATION:Museo Jesuita de la Banda\, Av. Gdor. José M. Silva 4137\, Tafí
+  del Valle
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

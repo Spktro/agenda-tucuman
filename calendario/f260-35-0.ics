@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-35-0@gestor-cultural
+DTSTAMP:20261028T174857Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Paseo de artesanos
+DESCRIPTION:En el parque del museo\, artesanías locales en cuero y tejido
+ s\, y platos dulces tradicionales. Organizan el Museo Sanmartiniano\, la C
+ omuna de La Ramada de Abajo y el Ente Cultural de Tucumán.\n\nMás info: 
+ https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo Sanmartiniano de Tucumán - La Ramada de Abajo\, RP 304\, L
+ a Ramada de Abajo\, Burruyacú
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

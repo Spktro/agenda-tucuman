@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p208-0@gestor-cultural
+DTSTAMP:20261028T174904Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Luces y Sonidos de la Independencia
+DESCRIPTION:Espectáculo de luces y sonido\, de jueves a sábado a las 20:
+ 30.\n\nMás info: https://www.instagram.com/p/DdSjI8EERMg/
+LOCATION:Casa Histórica\, Congreso 151
+URL:https://www.instagram.com/p/DdSjI8EERMg/
+END:VEVENT
+END:VCALENDAR

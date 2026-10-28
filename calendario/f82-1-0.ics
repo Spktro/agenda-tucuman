@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f82-1-0@gestor-cultural
+DTSTAMP:20261028T174902Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Cine y Milonga: Tango
+DESCRIPTION:Proyección de Tango (1935)\, con Carlos Gardel\, y presentaci
+ ón de milonga a cargo de Sara Rueda.\n\nMás info: https://enteculturaltu
+ cuman.gob.ar/noticias/cine-y-milonga-habra-un-ciclo-de-cine-y-tango-en-los
+ -museos-historico-y-casa-padilla/
+LOCATION:Museo Histórico Provincial Pte. Nicolás Avellaneda\, San Miguel
+  de Tucumán
+URL:https://enteculturaltucuman.gob.ar/noticias/cine-y-milonga-habra-un-ci
+ clo-de-cine-y-tango-en-los-museos-historico-y-casa-padilla/
+END:VEVENT
+END:VCALENDAR

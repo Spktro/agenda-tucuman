@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-5-0@gestor-cultural
+DTSTAMP:20261028T174853Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Recorridos por el museo
+DESCRIPTION:Museo en adhesión. Visita por los espacios del Centro Cultura
+ l y Museo Provincial «Anuncio y María del Huerto Iramain»\, en Raco\, d
+ epartamento Tafí Viejo.\n\nMás info: https://www.instagram.com/p/De7pGLB
+ FDhY/
+LOCATION:Centro Cultural Iramain\, Ruta 341 / Km. 20.5\, Raco
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

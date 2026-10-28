@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-5-0@gestor-cultural
+DTSTAMP:20261028T174850Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Visita a la sede histórica y al museo
+DESCRIPTION:Espacio invitado. Recorrido por el atrio monumental y el saló
+ n de atención al público de la Caja Popular de Ahorros\; en el segundo p
+ iso\, el Salón San Martín exhibe el primer bolillero de cristal de la lo
+ tería y obras de arte regional.\n\nMás info: https://www.instagram.com/p
+ /De_7BNFFKwQ/
+LOCATION:MCPA Caja Popular de Ahorros\, San Martín 469\, San Miguel de Tu
+ cumán
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

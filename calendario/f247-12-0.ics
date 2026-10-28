@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-12-0@gestor-cultural
+DTSTAMP:20261028T174841Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Manu\, la Virgen y la Libertad
+DESCRIPTION:Obra de teatro presentada en la Casa Belgraniana.\n\nMás info
+ : https://www.instagram.com/p/De9rhBkFh7Y/
+LOCATION:Casa Belgraniana\, Bernabé Aráoz 681\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

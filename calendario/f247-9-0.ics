@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-9-0@gestor-cultural
+DTSTAMP:20261028T174842Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Muestra temporaria "El Azúcar menos dulce"
+DESCRIPTION:Muestra temporaria: homenaje\, mediante visualización de dato
+ s\, a 60 años del cierre de los ingenios azucareros. Autora: Mg. Silvana 
+ Firpo.\n\nMás info: https://www.instagram.com/p/De9rhBkFh7Y/
+LOCATION:Museo de la Industria Azucarera\, Parque 9 de Julio\, San Miguel 
+ de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

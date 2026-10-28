@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-10-0@gestor-cultural
+DTSTAMP:20261028T174841Z
+DTSTART:20261031T233000Z
+DTEND:20261101T013000Z
+SUMMARY:Noche de terror en el museo
+DESCRIPTION:Recorrido inmersivo por estaciones inspiradas en cuentos y rel
+ atos de terror\, que entrelaza historia\, tradición oral y patrimonio con
+  las leyendas de la Casa Quinta Obispo Colombres.\n\nMás info: https://ww
+ w.instagram.com/p/De9rhBkFh7Y/
+LOCATION:Museo de la Industria Azucarera\, Parque 9 de Julio\, San Miguel 
+ de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

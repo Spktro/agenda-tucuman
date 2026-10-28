@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-4-0@gestor-cultural
+DTSTAMP:20261028T174841Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Visita libre a la muestra permanente
+DESCRIPTION:Recorrido por la vida y obra de Mercedes Sosa mediante disposi
+ tivos electrónicos e infografías\, con conciertos en pantallas gigantes 
+ en la "Sala en Vivo".\n\nMás info: https://www.instagram.com/p/De9rhBkFh7
+ Y/
+LOCATION:Museo Mercedes Sosa Casa Natal\, Pje. Calixto del Corro 344\, San
+  Miguel de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

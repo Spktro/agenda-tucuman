@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f83-15-0@gestor-cultural
+DTSTAMP:20261028T174902Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:Pinturas / Episodio Tucumán\, de Aníbal Buede
+DESCRIPTION:Inauguración de la exposición de Aníbal Buede.\n\nMás info
+ : https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-visu
+ ales-dio-inicio-al-tucuman-arte-2026/
+LOCATION:Ingenio de las Artes\, Eva Perón y Tornquist\, Lastenia\, Banda 
+ del Río Salí
+URL:https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-vi
+ suales-dio-inicio-al-tucuman-arte-2026/
+END:VEVENT
+END:VCALENDAR

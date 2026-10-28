@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f251-31-0@gestor-cultural
+DTSTAMP:20261028T174843Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Feria cultural en los jardines del Museo
+DESCRIPTION:Feria cultural en los jardines del museo con recorridos por su
+ s espacios y talleres de bordado\, costura y elaboración de atrapasueños
+ \, a cargo de Patricia Mercado.\n\nMás info: https://www.instagram.com/p/
+ De49fyEoPfl/
+LOCATION:Museo Provincial Anuncio y María Iramain\, Ruta 341 km 20\,5\, R
+ aco
+URL:https://www.instagram.com/p/De49fyEoPfl/
+END:VEVENT
+END:VCALENDAR

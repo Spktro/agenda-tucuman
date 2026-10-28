@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-58-0@gestor-cultural
+DTSTAMP:20261028T174858Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Mi casa será la de ellos
+DESCRIPTION:Unipersonal sobre la vida y obra de Elmina Paz Gallo. Direcci
+ ón de Indio Armanini\, guion de Martín Giner y actuación de Huerto Roja
+ s Paz.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo-Archivo Elmina Paz Gallo\, Av. Sarmiento 253\, San Miguel d
+ e Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f168-0-0@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:La Noche de los Museos en los museos municipales
+DESCRIPTION:Recorridos por la Casa Museo de la Ciudad\, el Museo Casa Belg
+ raniana\, el Museo Mercedes Sosa y el MIA\, con música y espectáculos.\n
+ \nMás info: https://www.instagram.com/p/DeeaZW0RYL-/
+LOCATION:Casa Museo de la Ciudad y museos municipales\, San Miguel de Tucu
+ mán
+URL:https://www.instagram.com/p/DeeaZW0RYL-/
+END:VEVENT
+END:VCALENDAR

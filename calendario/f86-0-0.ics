@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f86-0-0@gestor-cultural
+DTSTAMP:20261028T174903Z
+DTSTART:20261104T220000Z
+DTEND:20261105T000000Z
+SUMMARY:¿Dónde están las llaves?: ciclo de lectura
+DESCRIPTION:Micrófono abierto para poetas\, cuentistas y narradores\, el 
+ primer miércoles de cada mes de 19 a 20:30.\n\nMás info: https://entecul
+ turaltucuman.gob.ar/noticias/mas-de-treinta-autores-participaron-del-regre
+ so-del-ciclo-cultural-donde-estan-las-llaves/
+LOCATION:Museo Casa Padilla\, 25 de Mayo 25\, San Miguel de Tucumán
+URL:https://enteculturaltucuman.gob.ar/noticias/mas-de-treinta-autores-par
+ ticiparon-del-regreso-del-ciclo-cultural-donde-estan-las-llaves/
+END:VEVENT
+END:VCALENDAR

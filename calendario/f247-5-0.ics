@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-5-0@gestor-cultural
+DTSTAMP:20261028T174842Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Mercedes Sosa: Una historia que sigue cantando
+DESCRIPTION:Proyección continua en la sala Paka Paka con un homenaje de N
+ ahuel Pennisi\, fragmentos documentales y testimonios sobre la vida\, la v
+ oz y el legado artístico de Mercedes Sosa.\n\nMás info: https://www.inst
+ agram.com/p/De9rhBkFh7Y/
+LOCATION:Museo Mercedes Sosa Casa Natal\, Pje. Calixto del Corro 344\, San
+  Miguel de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

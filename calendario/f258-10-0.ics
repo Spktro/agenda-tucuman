@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-10-0@gestor-cultural
+DTSTAMP:20261028T174851Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Intervención de música y danza
+DESCRIPTION:Museo en adhesión. Intervención de música y danza de la Esc
+ uela de Arte Popular\; la placa no indica la hora\, el museo abre a las 18
+  h.\n\nMás info: https://www.instagram.com/p/De7pGLBFDhY/
+LOCATION:Museo Municipal de la Caña de Azúcar Bernabé Araoz\, Belgrano 
+ 475\, Monteros
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-30-0@gestor-cultural
+DTSTAMP:20261028T174847Z
+DTSTART:20261031T235000Z
+DTEND:20261101T015000Z
+SUMMARY:Taller de Escritura Creativa y Ensamble del Espacio para la Memori
+ a
+DESCRIPTION:Espacio invitado. Música en vivo.\n\nMás info: https://www.i
+ nstagram.com/p/De_7BNFFKwQ/
+LOCATION:La Escuelita de Famaillá\, Matienzo y Mitre\, Famaillá
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

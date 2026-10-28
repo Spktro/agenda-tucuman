@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p55-0@gestor-cultural
+DTSTAMP:20261028T174905Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:Fiesta Nacional del Sánguche de Milanesa
+DESCRIPTION:Fiesta popular gastronómica con espectáculos\, desde las 18 
+ horas.
+LOCATION:Sociedad Rural de Tucumán
+END:VEVENT
+END:VCALENDAR

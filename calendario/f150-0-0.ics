@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f150-0-0@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Amor de campeón: Martín Gerez
+DESCRIPTION:Homenaje a Chico Novarro y Armando Manzanero con repertorio de
+  boleros.\n\nMás info: https://www.instagram.com/p/Deksnb5x-Zo/
+LOCATION:Sala Tríbulo\, Teatro Alberdi\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/Deksnb5x-Zo/
+END:VEVENT
+END:VCALENDAR

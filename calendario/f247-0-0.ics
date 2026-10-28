@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-0-0@gestor-cultural
+DTSTAMP:20261028T174841Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Visita libre a la muestra permanente
+DESCRIPTION:Muestra permanente sobre la historia de la ciudad de San Migue
+ l de Tucumán desde su fundación hasta la actualidad\, con proyecciones\,
+  pantallas táctiles y fotografía digital.\n\nMás info: https://www.inst
+ agram.com/p/De9rhBkFh7Y/
+LOCATION:Casa Museo de la Ciudad\, Salta 532\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

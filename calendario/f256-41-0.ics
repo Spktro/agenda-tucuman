@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-41-0@gestor-cultural
+DTSTAMP:20261028T174849Z
+DTSTART:20261101T003000Z
+DTEND:20261101T023000Z
+SUMMARY:Voces de la zafra
+DESCRIPTION:Espacio invitado. Fotografías y testimonios de trabajadores\,
+  familias y pueblos azucareros.\n\nMás info: https://www.instagram.com/p/
+ De_7BNFFKwQ/
+LOCATION:Centro de Interpretación de la Zafra Azucarera de Famaillá\, Pa
+ rque Temático Histórico\, Famaillá
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

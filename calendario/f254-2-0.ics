@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f254-2-0@gestor-cultural
+DTSTAMP:20261028T174844Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:XII Bienal Argentina de Fotografía Documental
+DESCRIPTION:Durante toda la noche se pueden recorrer las exposiciones de l
+ a XII Bienal Argentina de Fotografía Documental que ocupan las salas del 
+ MUNT.\n\nMás info: https://www.instagram.com/p/DfCk4adEeJQ/
+LOCATION:MUNT\, San Martín 1545\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DfCk4adEeJQ/
+END:VEVENT
+END:VCALENDAR

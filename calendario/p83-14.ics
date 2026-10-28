@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p83-14@gestor-cultural
+DTSTAMP:20261028T174905Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261120
+SUMMARY:Territorio de silencios
+DESCRIPTION:Exposición del Grupo Catalejos en homenaje a Ernestina Salaza
+ r.\n\nMás info: https://enteculturaltucuman.gob.ar/noticias/el-festivalit
+ o-de-artes-visuales-dio-inicio-al-tucuman-arte-2026/
+LOCATION:Sala de Artes Visuales Ernestina Salazar\, Mercado Municipal
+URL:https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-vi
+ suales-dio-inicio-al-tucuman-arte-2026/
+END:VEVENT
+END:VCALENDAR

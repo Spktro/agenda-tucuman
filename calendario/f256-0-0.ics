@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-0-0@gestor-cultural
+DTSTAMP:20261028T174844Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Nueva muestra principal
+DESCRIPTION:Nueva muestra principal con un libro interactivo de la Batalla
+  de Tucumán y un cuadro parlante del general Manuel Belgrano que cuenta s
+ u vida en Tucumán.\n\nMás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:Casa Belgraniana Solar Histórico\, Bernabé Aráoz 681\, San Mig
+ uel de Tucumán
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

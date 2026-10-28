@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-13-0@gestor-cultural
+DTSTAMP:20261028T174851Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Malvinas en imágenes
+DESCRIPTION:Museo en adhesión. Fotografías\, documentos y material hist
+ órico de la guerra y sus protagonistas. Muestras abiertas desde las 19 h\
+ ; la jornada cierra a las 23 h.\n\nMás info: https://www.instagram.com/p/
+ De7pGLBFDhY/
+LOCATION:Museo Municipal Islas Malvinas\, Parque Temático Histórico\, Fa
+ maillá
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

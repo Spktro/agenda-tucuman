@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-10-0@gestor-cultural
+DTSTAMP:20261028T174844Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Visita guiada al paseo escultórico
+DESCRIPTION:Espacio invitado. Recorrido por el antiguo Ingenio Lastenia\, 
+ su arquitectura industrial y las esculturas realizadas con materiales de s
+ us ruinas.\n\nMás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:Ingenio de las Artes\, Av. Perón y Tornquist\, Lastenia
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

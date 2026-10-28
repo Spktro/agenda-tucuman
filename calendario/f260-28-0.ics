@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-28-0@gestor-cultural
+DTSTAMP:20261028T174856Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Pasacalles Sikuris
+DESCRIPTION:Pasacalles con Labranzas\, ensamble de música andina\, y cant
+ o con caja por Andrea Mamondes.\n\nMás info: https://www.instagram.com/p/
+ De5WbqMlKUg/
+LOCATION:Casa Museo Folklórico Provincial Gral. Manuel Belgrano\, 24 de S
+ eptiembre 565\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

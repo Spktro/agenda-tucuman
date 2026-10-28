@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-40-0@gestor-cultural
+DTSTAMP:20261028T174849Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:INTA Famaillá
+DESCRIPTION:Espacio invitado. Muestras sobre los beneficios de la caña de
+  azúcar.\n\nMás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:Centro de Interpretación de la Zafra Azucarera de Famaillá\, Pa
+ rque Temático Histórico\, Famaillá
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

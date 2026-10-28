@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f175-0-0@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:DistorsioHalloween: Zafra y Sei'bo
+DESCRIPTION:Halloween con bandas en vivo y concurso de disfraces.\n\nMás 
+ info: https://www.instagram.com/p/DeZnOghTcZ4/
+LOCATION:Oskar Bar de Música\, Virgen de la Merced 611\, San Miguel de Tu
+ cumán
+URL:https://www.instagram.com/p/DeZnOghTcZ4/
+END:VEVENT
+END:VCALENDAR

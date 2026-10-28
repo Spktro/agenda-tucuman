@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-26-0@gestor-cultural
+DTSTAMP:20261028T174853Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Muestra permanente
+DESCRIPTION:Museo en adhesión. Muestra permanente con una maqueta alusiva
+  a la ciudad de Tafí Viejo.\n\nMás info: https://www.instagram.com/p/De7
+ pGLBFDhY/
+LOCATION:Museo Talleres Ferroviarios de Tafí Viejo\, Sáenz Peña 234\, T
+ afí Viejo
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

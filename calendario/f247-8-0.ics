@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-8-0@gestor-cultural
+DTSTAMP:20261028T174842Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Visita libre a la muestra permanente
+DESCRIPTION:Muestra sobre la historia de la producción artesanal del azú
+ car\, la miel de caña\, el alcohol y el aguardiente\, con audiovisuales s
+ obre los movimientos sociales y obreros vinculados a la industria azucarer
+ a.\n\nMás info: https://www.instagram.com/p/De9rhBkFh7Y/
+LOCATION:Museo de la Industria Azucarera\, Parque 9 de Julio\, San Miguel 
+ de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

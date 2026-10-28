@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f213-0-6@gestor-cultural
+DTSTAMP:20261028T174838Z
+DTSTART:20261029T013000Z
+DTEND:20261029T033000Z
+SUMMARY:Terror en el Amazonas
+DESCRIPTION:Un grupo de médicos se interna en la selva amazónica para re
+ alizar una misión humanitaria\, pero su llegada altera el equilibrio de u
+ n territorio donde la naturaleza aún guarda secretos imposibles de contro
+ lar. Pronto descubrirán que no están solos: una criatura ancestral\, con
+ ocida como la Boiúna\, emerge para reclamar su dominio. Atrapados entre l
+ a selva\, el río y un depredador que domina ambos mundos\, deberán lucha
+ r por sobrevivir en un lugar donde la línea entre cazador y presa desapar
+ ece.\n\nMás info: https://www.cineatlasweb.com.ar/pelicula/54/4226afbde35
+ fac61945c372ae0650875
+LOCATION:Cine Atlas Monteagudo\, Monteagudo 250\, San Miguel de Tucumán
+URL:https://www.cineatlasweb.com.ar/pelicula/54/4226afbde35fac61945c372ae0
+ 650875
+END:VEVENT
+END:VCALENDAR

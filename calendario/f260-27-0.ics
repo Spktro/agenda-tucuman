@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-27-0@gestor-cultural
+DTSTAMP:20261028T174856Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Intervención musical en arpa
+DESCRIPTION:Intervención musical en arpa a cargo de Roberto Sir.\n\nMás 
+ info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Casa Museo Folklórico Provincial Gral. Manuel Belgrano\, 24 de S
+ eptiembre 565\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

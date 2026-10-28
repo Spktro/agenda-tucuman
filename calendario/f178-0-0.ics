@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f178-0-0@gestor-cultural
+DTSTAMP:20261028T174836Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Primera apertura parcial del Museo Timoteo Navarro
+DESCRIPTION:El museo\, en recuperación edilicia\, abre parcialmente sus s
+ alas.\n\nMás info: https://www.instagram.com/p/DeSHJo3IIeP/
+LOCATION:Museo Provincial de Bellas Artes Timoteo E. Navarro\, 9 de Julio 
+ 44\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DeSHJo3IIeP/
+END:VEVENT
+END:VCALENDAR

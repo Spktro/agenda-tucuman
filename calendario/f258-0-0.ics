@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-0-0@gestor-cultural
+DTSTAMP:20261028T174850Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Muestra permanente
+DESCRIPTION:Museo en adhesión. Piezas arqueológicas de culturas prehisp
+ ánicas locales (La Candelaria\, Condorhuasi\, Santa María\, Belén) con 
+ recorrido guiado. Traslado gratuito en dos combis con cupo limitado: salid
+ a 19:30 desde la puerta del Ente de Turismo (24 de Septiembre\, frente a P
+ laza Independencia)\, con inscripción previa desde las 18 h.\n\nMás info
+ : https://www.instagram.com/p/De7pGLBFDhY/
+LOCATION:Museo Arqueológico El Cadillal\, Complejo Turístico Dique Celes
+ tino Gelsi\, El Cadillal
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f245-1-0@gestor-cultural
+DTSTAMP:20261028T174840Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Cinco maneras de mirar Tucumán
+DESCRIPTION:Instalación museográfica en la Sala 6 y el segundo patio con
+  documentos históricos originales que casi nunca se exhiben. Personal té
+ cnico del museo acompaña el recorrido y amplía la información.\n\nMás 
+ info: https://www.instagram.com/p/DfAYEmEnJex/
+LOCATION:Casa Histórica\, Congreso 141\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DfAYEmEnJex/
+END:VEVENT
+END:VCALENDAR

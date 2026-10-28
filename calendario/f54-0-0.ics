@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f54-0-0@gestor-cultural
+DTSTAMP:20261028T174900Z
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+SUMMARY:El Cuco Fest
+DESCRIPTION:Kermés y feria de mitos y terror\, de 18 a 24 horas.
+LOCATION:Mercado Municipal de Tafí Viejo\, San Martín esq. Uttinger\, Ta
+ fí Viejo
+END:VEVENT
+END:VCALENDAR

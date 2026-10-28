@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f83-20-0@gestor-cultural
+DTSTAMP:20261028T174903Z
+DTSTART:20261103T190000Z
+DTEND:20261103T210000Z
+SUMMARY:¿De quién es la cultura?
+DESCRIPTION:Conversación por streaming sobre derechos culturales y polít
+ icas públicas.\n\nMás info: https://enteculturaltucuman.gob.ar/noticias/
+ el-festivalito-de-artes-visuales-dio-inicio-al-tucuman-arte-2026/
+LOCATION:Modalidad virtual
+URL:https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-vi
+ suales-dio-inicio-al-tucuman-arte-2026/
+END:VEVENT
+END:VCALENDAR

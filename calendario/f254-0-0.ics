@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f254-0-0@gestor-cultural
+DTSTAMP:20261028T174844Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Danza en el MUNT
+DESCRIPTION:Intervención coreográfica de estudiantes y docentes de las c
+ arreras de Danza Clásica y Danza Contemporánea de la Facultad de Artes d
+ e la UNT\, con las obras Sobre la arena\, Yo te nombro y Mercedes\, y Sequ
+ encia Queen.\n\nMás info: https://www.instagram.com/p/DfCk4adEeJQ/
+LOCATION:MUNT\, San Martín 1545\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DfCk4adEeJQ/
+END:VEVENT
+END:VCALENDAR

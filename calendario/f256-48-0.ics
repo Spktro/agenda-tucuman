@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-48-0@gestor-cultural
+DTSTAMP:20261028T174850Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Los Quilmes contamos nuestra historia
+DESCRIPTION:Espacio invitado. Recorrido por el Centro de Interpretación y
+  la Ciudad Sagrada para conocer el patrimonio y la memoria ancestral de la
+  comunidad Quilmes\, en los Valles Calchaquíes. Hay guías\, paseo de art
+ esanos y kiosco.\n\nMás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:CIQ Centro de Interpretación de la Ciudad Sagrada de los Quilmes
+ \, Quilmes
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

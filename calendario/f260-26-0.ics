@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-26-0@gestor-cultural
+DTSTAMP:20261028T174856Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Materia y Memoria
+DESCRIPTION:Parte del recorrido museográfico: artesanía y patrimonio en 
+ diálogo a través del legado textil y cerámico.\n\nMás info: https://ww
+ w.instagram.com/p/De5WbqMlKUg/
+LOCATION:Casa Museo Folklórico Provincial Gral. Manuel Belgrano\, 24 de S
+ eptiembre 565\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

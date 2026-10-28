@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f251-4-0@gestor-cultural
+DTSTAMP:20261028T174843Z
+DTSTART:20261101T010000Z
+DTEND:20261101T030000Z
+SUMMARY:Labranzas
+DESCRIPTION:Ensamble de música andina (sikuris) y canto con caja por Andr
+ ea Mamondes.\n\nMás info: https://www.instagram.com/p/De49fyEoPfl/
+LOCATION:Museo Histórico Provincial Nicolás Avellaneda\, Congreso 56\, S
+ an Miguel de Tucumán
+URL:https://www.instagram.com/p/De49fyEoPfl/
+END:VEVENT
+END:VCALENDAR

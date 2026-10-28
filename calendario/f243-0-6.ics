@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f243-0-6@gestor-cultural
+DTSTAMP:20261028T174840Z
+DTSTART:20261028T203000Z
+DTEND:20261028T223000Z
+SUMMARY:Heidi: El Rescate del Lince
+DESCRIPTION:La trama saca a Heidi de su rutina habitual cuando encuentra a
+  un cachorro de lince herido en las montañas. Con la ayuda de su insepara
+ ble amigo Pedro\, decide cuidarlo en secreto para regresarlo con su famili
+ a. La situación se complica con la llegada de Schnaittinger\, un codicios
+ o hombre de negocios que planea construir un enorme aserradero en la zona.
+  Para lograrlo\, llena el bosque de trampas mortales\, obligando a Heidi y
+  a Pedro a embarcarse en una peligrosa aventura para frustrar sus planes\,
+  salvar al lince y proteger su entorno natural\n\nMás info: https://www.c
+ ineatlasweb.com.ar/pelicula/58/aad38d5f76c4904387accb5c69eb6a11
+LOCATION:Cine Atlas Vía 24\, 24 de Septiembre 757\, San Miguel de Tucumá
+ n
+URL:https://www.cineatlasweb.com.ar/pelicula/58/aad38d5f76c4904387accb5c69
+ eb6a11
+END:VEVENT
+END:VCALENDAR

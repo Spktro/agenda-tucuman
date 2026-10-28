@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p103-0@gestor-cultural
+DTSTAMP:20261028T174904Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:La Trama\, de Ricardo Abella
+DESCRIPTION:Muestra de Ricardo Abella. Lunes a viernes de 9 a 13 y de 15 a
+  18.\n\nMás info: https://www.instagram.com/p/DeuRkk0CKpl/
+LOCATION:Biomba Galería\, Santa Fe 240
+URL:https://www.instagram.com/p/DeuRkk0CKpl/
+END:VEVENT
+END:VCALENDAR

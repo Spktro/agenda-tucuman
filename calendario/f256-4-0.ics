@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-4-0@gestor-cultural
+DTSTAMP:20261028T174848Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Memorias del futuro. Artistas en diálogo con el patrimonio
+DESCRIPTION:Espacio invitado. Muestra temporaria colectiva de 25 artistas 
+ tucumanos que intervienen una matriz escultórica común\, realizada entre
+  la Municipalidad de San Miguel de Tucumán y el Proyecto PIUNT C/708 de l
+ a Facultad de Artes de la UNT. Las obras irán luego a una subasta solidar
+ ia a beneficio del Cottolengo Don Orione.\n\nMás info: https://www.instag
+ ram.com/p/De_7BNFFKwQ/
+LOCATION:Cementerio Del Oeste\, Asunción 150\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

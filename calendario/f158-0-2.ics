@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f158-0-2@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261031T010000Z
+DTEND:20261031T030000Z
+SUMMARY:¡Aunque usted no lo crea!: tres comedias absurdas
+DESCRIPTION:Tres comedias cortas y absurdas de Pablo Albarello: Pater\, As
+ istencia al suicida y Rehén a la napolitana. Reservas al 3815943770.\n\nM
+ ás info: https://www.instagram.com/p/DeiTEfetyC7/
+LOCATION:CiTá Abasto de Cultura\, Lamadrid 1457\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DeiTEfetyC7/
+END:VEVENT
+END:VCALENDAR

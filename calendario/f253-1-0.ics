@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f253-1-0@gestor-cultural
+DTSTAMP:20261028T174844Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Presentación del proyecto de consolidación y puesta en valor de 
+ las molduras del museo
+DESCRIPTION:Primera apertura parcial de los avances del trabajo de conserv
+ ación del patrimonio arquitectónico\, realizado junto a docentes y estud
+ iantes de la Facultad de Artes de la UNT\; acompaña la apertura al públi
+ co. La inauguración de la reserva Spilimbergo (19:30) es solo para autori
+ dades\, con acceso restringido.\n\nMás info: https://www.instagram.com/p/
+ De5F7TUoHIi/
+LOCATION:Museo Provincial de Bellas Artes Timoteo Navarro\, 9 de Julio 44\
+ , San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5F7TUoHIi/
+END:VEVENT
+END:VCALENDAR

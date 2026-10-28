@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f149-0-0@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261107T230000Z
+DTEND:20261108T010000Z
+SUMMARY:Rancixs Club\, Cebú del Huaico\, Brahmans y Los Ritos
+DESCRIPTION:Velada de rock con bandas de Córdoba\, Jujuy y Tucumán.\n\nM
+ ás info: https://www.instagram.com/p/Dektlq-BRDh/
+LOCATION:La Taberna de Saturno\, Chacho Peñaloza y Pringles\, Yerba Buena
+URL:https://www.instagram.com/p/Dektlq-BRDh/
+END:VEVENT
+END:VCALENDAR

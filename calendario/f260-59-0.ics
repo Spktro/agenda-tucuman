@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-59-0@gestor-cultural
+DTSTAMP:20261028T174858Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Recorrido nocturno
+DESCRIPTION:Salas interactivas sobre la historia de la Patria y del Ejérc
+ ito Argentino\, con armamentos\, uniformes históricos y blindados.\n\nMá
+ s info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo del Ejército\, 25 de Mayo 1029\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

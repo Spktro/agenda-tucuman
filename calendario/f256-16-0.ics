@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-16-0@gestor-cultural
+DTSTAMP:20261028T174845Z
+DTSTART:20261031T201500Z
+DTEND:20261031T221500Z
+SUMMARY:Visita guiada
+DESCRIPTION:Espacio invitado. Recorrido por el Parque para descubrir la hi
+ storia de la Tierra\, en dos turnos.\n\nMás info: https://www.instagram.c
+ om/p/De_7BNFFKwQ/
+LOCATION:Parque Geológico INSUGEO\, Florencio Aceñolaza s/n\, Horco Moll
+ e\, Yerba Buena
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

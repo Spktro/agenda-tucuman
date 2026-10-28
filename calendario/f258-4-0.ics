@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-4-0@gestor-cultural
+DTSTAMP:20261028T174853Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Muestra de fotos antiguas
+DESCRIPTION:Museo en adhesión. Muestra de imágenes antiguas de San Pedro
+  de Colalao.\n\nMás info: https://www.instagram.com/p/De7pGLBFDhY/
+LOCATION:Museo Arqueológico Dr. Manuel A. Garcia Salemi\, 24 de Septiembr
+ e (entre Congreso y Las Heras)\, San Pedro de Colalao
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

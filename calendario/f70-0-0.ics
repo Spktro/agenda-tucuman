@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f70-0-0@gestor-cultural
+DTSTAMP:20261028T174902Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:La Peña de Orellana Lucca
+DESCRIPTION:Peña folclórica de Orellana Lucca.\n\nMás info: https://alp
+ ogo.com/evento/la-pena-de-orellana-lucca-en-tucuman-28751
+LOCATION:Club Sportivo Floresta\, San Miguel de Tucumán
+URL:https://alpogo.com/evento/la-pena-de-orellana-lucca-en-tucuman-28751
+END:VEVENT
+END:VCALENDAR

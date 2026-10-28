@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-3-0@gestor-cultural
+DTSTAMP:20261028T174853Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Muestra arqueológica permanente
+DESCRIPTION:Museo en adhesión. Recorrido con guía por la muestra arqueol
+ ógica permanente del museo.\n\nMás info: https://www.instagram.com/p/De7
+ pGLBFDhY/
+LOCATION:Museo Arqueológico Dr. Manuel A. Garcia Salemi\, 24 de Septiembr
+ e (entre Congreso y Las Heras)\, San Pedro de Colalao
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

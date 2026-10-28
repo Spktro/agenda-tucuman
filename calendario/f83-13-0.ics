@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f83-13-0@gestor-cultural
+DTSTAMP:20261028T174902Z
+DTSTART:20261028T220000Z
+DTEND:20261029T000000Z
+SUMMARY:Investigar desde las artes
+DESCRIPTION:Conversatorio sobre herramientas para insertarse en el sistema
+  científico desde las artes.\n\nMás info: https://enteculturaltucuman.go
+ b.ar/noticias/el-festivalito-de-artes-visuales-dio-inicio-al-tucuman-arte-
+ 2026/
+LOCATION:Punto Digital del Ente Cultural\, San Martín 251\, San Miguel de
+  Tucumán
+URL:https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-vi
+ suales-dio-inicio-al-tucuman-arte-2026/
+END:VEVENT
+END:VCALENDAR

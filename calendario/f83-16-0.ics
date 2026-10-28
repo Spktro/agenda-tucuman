@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f83-16-0@gestor-cultural
+DTSTAMP:20261028T174902Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Museo Iramain en la Noche de los Museos
+DESCRIPTION:Activación vinculada a la muestra Ser corazones de los otros\
+ , de 19 a 22 h.\n\nMás info: https://enteculturaltucuman.gob.ar/noticias/
+ el-festivalito-de-artes-visuales-dio-inicio-al-tucuman-arte-2026/
+LOCATION:Museo Iramain\, Entre Ríos 27\, San Miguel de Tucumán
+URL:https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-vi
+ suales-dio-inicio-al-tucuman-arte-2026/
+END:VEVENT
+END:VCALENDAR

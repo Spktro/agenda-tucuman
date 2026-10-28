@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f211-0-11@gestor-cultural
+DTSTAMP:20261028T174837Z
+DTSTART:20261028T222000Z
+DTEND:20261029T002000Z
+SUMMARY:Clayface
+DESCRIPTION:El meteórico ascenso de Matt Hagen de chico callejero de Goth
+ am a estrella de Hollywood\, se ve trágicamente truncado cuando las accio
+ nes de un jefe criminal local lo dejan horriblemente desfigurado. Abandona
+ do por su equipo y sin nada que perder\, Matt recurre a un tratamiento de 
+ vanguardia que milagrosamente le devuelve su aspecto original... pero que 
+ también altera inesperadamente su percepción de la realidad\, precipitá
+ ndolo por una senda destructiva de venganza obsesiva.\n\nMás info: https:
+ //www.cineatlasweb.com.ar/pelicula/54/30f24162aa962400a89d93a36dc34c79
+LOCATION:Cine Atlas Monteagudo\, Monteagudo 250\, San Miguel de Tucumán
+URL:https://www.cineatlasweb.com.ar/pelicula/54/30f24162aa962400a89d93a36d
+ c34c79
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-12-0@gestor-cultural
+DTSTAMP:20261028T174845Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Zafra y acero
+DESCRIPTION:Espacio invitado. Muestra fotográfica de Ana Lía Sorrentino 
+ y Graciela Lavado sobre los espacios\, labores y temporalidades de la indu
+ stria azucarera tucumana.\n\nMás info: https://www.instagram.com/p/De_7BN
+ FFKwQ/
+LOCATION:Ingenio de las Artes\, Av. Perón y Tornquist\, Lastenia
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

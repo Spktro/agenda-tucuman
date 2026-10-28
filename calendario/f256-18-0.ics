@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-18-0@gestor-cultural
+DTSTAMP:20261028T174845Z
+DTSTART:20261031T214500Z
+DTEND:20261031T234500Z
+SUMMARY:Fósiles: mucho más que dinosaurios
+DESCRIPTION:Espacio invitado. Proyección e intercambio a cargo de la Lic.
+  en Ciencias de la Comunicación Romina Acosta y el Dr. en Paleontología 
+ Matías Armella.\n\nMás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:Parque Geológico INSUGEO\, Florencio Aceñolaza s/n\, Horco Moll
+ e\, Yerba Buena
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

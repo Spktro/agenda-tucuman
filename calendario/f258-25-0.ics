@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-25-0@gestor-cultural
+DTSTAMP:20261028T174853Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:El Hongo Guerrero
+DESCRIPTION:Museo en adhesión. Percusión solista\; la placa no indica la
+  hora\, las actividades empiezan a las 19 h.\n\nMás info: https://www.ins
+ tagram.com/p/De7pGLBFDhY/
+LOCATION:Museo Talleres Ferroviarios de Tafí Viejo\, Sáenz Peña 234\, T
+ afí Viejo
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

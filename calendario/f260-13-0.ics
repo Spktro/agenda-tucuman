@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-13-0@gestor-cultural
+DTSTAMP:20261028T174854Z
+DTSTART:20261101T020000Z
+DTEND:20261101T040000Z
+SUMMARY:Coro de Adultos Mayores
+DESCRIPTION:Presentación del Coro de Adultos Mayores bajo la dirección d
+ e Luis Allende.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo Casa Padilla\, 25 de Mayo 36\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

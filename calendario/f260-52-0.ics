@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-52-0@gestor-cultural
+DTSTAMP:20261028T174857Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:En ronda. Memorias vivas del territorio
+DESCRIPTION:Inauguración de una muestra arqueológica que reúne pasado y
+  presente de las comunidades indígenas.\n\nMás info: https://www.instagr
+ am.com/p/De5WbqMlKUg/
+LOCATION:Museo de Arqueología IAM - FCN - UNT\, San Martín 1545\, San Mi
+ guel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

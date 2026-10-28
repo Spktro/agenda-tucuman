@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-24-0@gestor-cultural
+DTSTAMP:20261028T174855Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Tradiciones musicales del NOA
+DESCRIPTION:Recorrido museográfico dedicado a las tradiciones musicales d
+ el Noroeste argentino.\n\nMás info: https://www.instagram.com/p/De5WbqMlK
+ Ug/
+LOCATION:Casa Museo Folklórico Provincial Gral. Manuel Belgrano\, 24 de S
+ eptiembre 565\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

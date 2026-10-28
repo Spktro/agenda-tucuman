@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f251-33-0@gestor-cultural
+DTSTAMP:20261028T174843Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Noche de cine tucumano
+DESCRIPTION:Proyección de una película tucumana en el museo.\n\nMás inf
+ o: https://www.instagram.com/p/De49fyEoPfl/
+LOCATION:Museo Arqueológico Los Menhires\, Av. Los Menhires s/n\, El Moll
+ ar
+URL:https://www.instagram.com/p/De49fyEoPfl/
+END:VEVENT
+END:VCALENDAR

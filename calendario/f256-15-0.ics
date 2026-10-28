@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-15-0@gestor-cultural
+DTSTAMP:20261028T174845Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Exhibiciones para todo público
+DESCRIPTION:Espacio invitado. Mesas con fósiles\, rocas y minerales.\n\nM
+ ás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:Parque Geológico INSUGEO\, Florencio Aceñolaza s/n\, Horco Moll
+ e\, Yerba Buena
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

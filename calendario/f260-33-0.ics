@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-33-0@gestor-cultural
+DTSTAMP:20261028T174857Z
+DTSTART:20261031T190000Z
+DTEND:20261031T210000Z
+SUMMARY:Peña folklórica
+DESCRIPTION:Peña folklórica con artistas y academias locales.\n\nMás in
+ fo: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:MACAI - Museo Arqueológico a Cielo Abierto Ibatin\, Ibatín\, Le
+ ón Rougés\, Dpto. Monteros
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-17-0@gestor-cultural
+DTSTAMP:20261028T174851Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Malvinas en las voces de sus protagonistas
+DESCRIPTION:Museo en adhesión. Testimonios de veteranos de guerra\, sujet
+ o a la participación de invitados.\n\nMás info: https://www.instagram.co
+ m/p/De7pGLBFDhY/
+LOCATION:Museo Municipal Islas Malvinas\, Parque Temático Histórico\, Fa
+ maillá
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

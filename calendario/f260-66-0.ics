@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-66-0@gestor-cultural
+DTSTAMP:20261028T174859Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Descubrí el "Lado B" de nuestro patrimonio
+DESCRIPTION:Recorrido guiado por alumnos con juegos\, pistas y talleres pl
+ ásticos. Salas: Paisajes tucumanos\, El Arte de Enseñar\, Radiofonía Tu
+ cumana\, Historia y Héroes\, y Lourdes.\n\nMás info: https://www.instagr
+ am.com/p/De5WbqMlKUg/
+LOCATION:Museo Colegio del Sagrado Corazón - Padres Lourdistas\, 25 de Ma
+ yo 680\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

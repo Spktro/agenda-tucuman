@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f132-0-0@gestor-cultural
+DTSTAMP:20261028T174835Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:Taller de Sabar: percusión de Senegal
+DESCRIPTION:Taller abierto de percusión senegalesa\, sin experiencia prev
+ ia. Inscripción: 3816094738.\n\nMás info: https://www.instagram.com/p/De
+ rbsUoxcK1/
+LOCATION:La Veleta Cultural\, Crisóstomo Álvarez 124\, San Miguel de Tuc
+ umán
+URL:https://www.instagram.com/p/DerbsUoxcK1/
+END:VEVENT
+END:VCALENDAR

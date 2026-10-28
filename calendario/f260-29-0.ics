@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-29-0@gestor-cultural
+DTSTAMP:20261028T174856Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Intervención artística del Teatro Estable de Títeres y Marionet
+ as
+DESCRIPTION:Intervención artística a cargo del Teatro Estable de Títere
+ s y Marionetas.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Casa Museo Folklórico Provincial Gral. Manuel Belgrano\, 24 de S
+ eptiembre 565\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

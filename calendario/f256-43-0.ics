@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-43-0@gestor-cultural
+DTSTAMP:20261028T174849Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Taller de dibujo para las infancias
+DESCRIPTION:Espacio invitado. Taller de dibujo para chicos en el Mercado C
+ ultural Municipal de Monteros.\n\nMás info: https://www.instagram.com/p/D
+ e_7BNFFKwQ/
+LOCATION:Mercado Cultural Municipal\, Colón y Slivano Bores\, Monteros
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

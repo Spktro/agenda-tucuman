@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-23-0@gestor-cultural
+DTSTAMP:20261028T174852Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Nina Danza
+DESCRIPTION:Museo en adhesión. Homenaje a la vida ferroviaria: dar gracia
+ s por lo recibido.\n\nMás info: https://www.instagram.com/p/De7pGLBFDhY/
+LOCATION:Museo Talleres Ferroviarios de Tafí Viejo\, Sáenz Peña 234\, T
+ afí Viejo
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

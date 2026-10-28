@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-1-0@gestor-cultural
+DTSTAMP:20261028T174850Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Muestra permanente
+DESCRIPTION:Museo en adhesión. Visita a la muestra permanente del museo e
+ n horario diurno\, con entrada libre y gratuita.\n\nMás info: https://www
+ .instagram.com/p/De7pGLBFDhY/
+LOCATION:Museo Jesuita de la Banda\, Av. Gdor. José M. Silva 4137\, Tafí
+  del Valle
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-28-0@gestor-cultural
+DTSTAMP:20261028T174847Z
+DTSTART:20261031T223000Z
+DTEND:20261101T003000Z
+SUMMARY:Recorrido guiado
+DESCRIPTION:Espacio invitado. Recorrido guiado por el Espacio para la Memo
+ ria y la Promoción de los Derechos Humanos.\n\nMás info: https://www.ins
+ tagram.com/p/De_7BNFFKwQ/
+LOCATION:La Escuelita de Famaillá\, Matienzo y Mitre\, Famaillá
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

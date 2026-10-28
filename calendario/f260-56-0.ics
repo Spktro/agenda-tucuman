@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-56-0@gestor-cultural
+DTSTAMP:20261028T174858Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:La Noche Embrujada: leyendas y cementerio de animales
+DESCRIPTION:Exhibición de leyendas de animales y un cementerio de animale
+ s.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Fundación Miguel Lillo - Museo Ciencias Naturales\, Miguel Lillo
+  251\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f189-3-0@gestor-cultural
+DTSTAMP:20261028T174836Z
+DTSTART:20261031T003000Z
+DTEND:20261031T023000Z
+SUMMARY:Noche de folclore
+DESCRIPTION:Noche de folclore en vivo.\n\nMás info: https://www.instagram
+ .com/p/DeHp9J7oJj2/
+LOCATION:Casa Barrio\, 9 de Julio 1032\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DeHp9J7oJj2/
+END:VEVENT
+END:VCALENDAR

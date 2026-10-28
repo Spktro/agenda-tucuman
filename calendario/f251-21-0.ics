@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f251-21-0@gestor-cultural
+DTSTAMP:20261028T174842Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Canto con caja
+DESCRIPTION:Canto con caja a cargo de Andrea Mamondes.\n\nMás info: https
+ ://www.instagram.com/p/De49fyEoPfl/
+LOCATION:Casa Museo Folklórico Provincial General Manuel Belgrano\, 24 de
+  Septiembre 565\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De49fyEoPfl/
+END:VEVENT
+END:VCALENDAR

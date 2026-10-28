@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-3-0@gestor-cultural
+DTSTAMP:20261028T174856Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Ronda de música popular argentina y latinoamericana
+DESCRIPTION:En el Patio de Homenajes\, ronda de música popular argentina 
+ y latinoamericana contemporánea en tres actos de 45 minutos\, con artista
+ s invitados y participación del público. La placa no da horario propio.\
+ n\nMás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Casa Histórica - Museo Nacional de la Independencia\, Congreso 1
+ 41\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

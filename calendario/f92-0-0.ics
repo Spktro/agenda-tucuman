@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f92-0-0@gestor-cultural
+DTSTAMP:20261028T174904Z
+DTSTART:20261031T233000Z
+DTEND:20261101T013000Z
+SUMMARY:De postales y canciones: concierto coral
+DESCRIPTION:Concierto coral con articulaciones interdisciplinarias\, camin
+ o a los 40 años del organismo.\n\nMás info: https://www.instagram.com/p/
+ DeuszR4KZnZ/
+LOCATION:Teatro Alberdi\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DeuszR4KZnZ/
+END:VEVENT
+END:VCALENDAR

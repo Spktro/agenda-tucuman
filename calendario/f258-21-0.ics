@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f258-21-0@gestor-cultural
+DTSTAMP:20261028T174852Z
+DTSTART:20261101T010000Z
+DTEND:20261101T030000Z
+SUMMARY:Malvinas: memoria que nos une
+DESCRIPTION:Museo en adhesión. Lectura de textos\, poesías y mensajes\; 
+ actividad sujeta a organización.\n\nMás info: https://www.instagram.com/
+ p/De7pGLBFDhY/
+LOCATION:Museo Municipal Islas Malvinas\, Parque Temático Histórico\, Fa
+ maillá
+URL:https://www.instagram.com/p/De7pGLBFDhY/
+END:VEVENT
+END:VCALENDAR

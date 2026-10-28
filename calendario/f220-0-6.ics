@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f220-0-6@gestor-cultural
+DTSTAMP:20261028T174838Z
+DTSTART:20261028T204000Z
+DTEND:20261028T224000Z
+SUMMARY:Madre Siniestra
+DESCRIPTION:¿Puedo entrar a tu corazón?\n\nBela\, una pequeña niña de 
+ 8 años\, entabla una relación con una entidad siniestra en su casa que s
+ e ve y suena igual a su madre\n\nMás info: https://www.cineatlasweb.com.a
+ r/pelicula/54/e7321cbbe3bd01d189f53f99304c3ff4
+LOCATION:Cine Atlas Monteagudo\, Monteagudo 250\, San Miguel de Tucumán
+URL:https://www.cineatlasweb.com.ar/pelicula/54/e7321cbbe3bd01d189f53f9930
+ 4c3ff4
+END:VEVENT
+END:VCALENDAR

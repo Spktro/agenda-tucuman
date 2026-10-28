@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f66-0-0@gestor-cultural
+DTSTAMP:20261028T174901Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:Myriam Hernández: Tauro World Tour 2026
+DESCRIPTION:Recital de la cantante chilena Myriam Hernández.
+LOCATION:Teatro Mercedes Sosa\, San Martín 479\, San Miguel de Tucumán
+END:VEVENT
+END:VCALENDAR

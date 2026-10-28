@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f110-0-0@gestor-cultural
+DTSTAMP:20261028T174834Z
+DTSTART:20261030T003000Z
+DTEND:20261030T023000Z
+SUMMARY:Toda la noche galoparé así
+DESCRIPTION:Única función en el ciclo Modo Teatro\; lo recaudado financi
+ a el viaje al Festival Cordillera en Escena. Reservas al 3816164827.\n\nM
+ ás info: https://www.instagram.com/p/Det2v6YuYfj/
+LOCATION:Escenario del Teatro Alberdi\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/Det2v6YuYfj/
+END:VEVENT
+END:VCALENDAR

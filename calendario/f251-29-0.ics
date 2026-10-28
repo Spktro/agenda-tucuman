@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f251-29-0@gestor-cultural
+DTSTAMP:20261028T174843Z
+DTSTART:20261031T190000Z
+DTEND:20261031T210000Z
+SUMMARY:Muestra de objetos recuperados en excavaciones arqueológicas
+DESCRIPTION:Exhibición de objetos recuperados en excavaciones arqueológi
+ cas del sitio.\n\nMás info: https://www.instagram.com/p/De49fyEoPfl/
+LOCATION:Museo Arqueológico a Cielo Abierto Ibatín\, Ibatín\, Monteros
+URL:https://www.instagram.com/p/De49fyEoPfl/
+END:VEVENT
+END:VCALENDAR

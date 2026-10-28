@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p83-0@gestor-cultural
+DTSTAMP:20261028T174905Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261108
+SUMMARY:Festival de Artes Visuales Tucumán Arte 2026
+DESCRIPTION:Festival con exposiciones\, talleres\, conversatorios e interv
+ enciones artísticas en distintos espacios de la provincia. Mayormente de 
+ entrada libre y gratuita.\n\nMás info: https://enteculturaltucuman.gob.ar
+ /noticias/el-festivalito-de-artes-visuales-dio-inicio-al-tucuman-arte-2026
+ /
+LOCATION:Varios espacios culturales
+URL:https://enteculturaltucuman.gob.ar/noticias/el-festivalito-de-artes-vi
+ suales-dio-inicio-al-tucuman-arte-2026/
+END:VEVENT
+END:VCALENDAR

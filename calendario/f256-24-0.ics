@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-24-0@gestor-cultural
+DTSTAMP:20261028T174846Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Mujeres en la Escuelita de Famaillá
+DESCRIPTION:Espacio invitado. Espacio para la Memoria y la Promoción de l
+ os Derechos Humanos\; las muestras abren desde las 19 h.\n\nMás info: htt
+ ps://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:La Escuelita de Famaillá\, Matienzo y Mitre\, Famaillá
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

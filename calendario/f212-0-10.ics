@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f212-0-10@gestor-cultural
+DTSTAMP:20261028T174837Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:Queres Ser Mi Hijo
+DESCRIPTION:Una mujer conformista de 42 años descubre que su novio\, con 
+ quien lleva 15 años de relación\, le es infiel. Estancada\, con el coraz
+ ón roto y sin trabajo\, Lucía decide regresar a su departamento de solte
+ ra para comenzar de cero\, únicamente para descubrir que su nuevo vecino\
+ , Javier\, es un joven mujeriego de 22 años que siempre tiene fiestas y n
+ o la deja descansar. Para conseguir el trabajo que siempre ha querido\, Lu
+ cía decide mentir en su entrevista laboral: asegura ser una mujer de fami
+ lia y tener un hijo de 22 años. Como si eso no fuera suficiente\, en la 
+ última prueba para ser contratada debe…\n\nMás info: https://www.cinea
+ tlasweb.com.ar/pelicula/54/87aea1034dddd9bd43daef74a7406c27
+LOCATION:Cine Atlas Monteagudo\, Monteagudo 250\, San Miguel de Tucumán
+URL:https://www.cineatlasweb.com.ar/pelicula/54/87aea1034dddd9bd43daef74a7
+ 406c27
+END:VEVENT
+END:VCALENDAR

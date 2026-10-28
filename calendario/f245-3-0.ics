@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f245-3-0@gestor-cultural
+DTSTAMP:20261028T174840Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Ronda de canto
+DESCRIPTION:Ronda de música popular argentina y latinoamericana en el Pat
+ io de Homenajes\, coordinada por Luciano Aragón\, Leopoldo Deza y Federic
+ o Correa\, con artistas invitados y participación del público.\n\nMás i
+ nfo: https://www.instagram.com/p/DfAYEmEnJex/
+LOCATION:Casa Histórica\, Congreso 141\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/DfAYEmEnJex/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-26-0@gestor-cultural
+DTSTAMP:20261028T174847Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Florecerán pañuelos
+DESCRIPTION:Espacio invitado. Actividad en el Espacio para la Memoria\; la
+  placa no detalla en qué consiste.\n\nMás info: https://www.instagram.co
+ m/p/De_7BNFFKwQ/
+LOCATION:La Escuelita de Famaillá\, Matienzo y Mitre\, Famaillá
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

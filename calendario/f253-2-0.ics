@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f253-2-0@gestor-cultural
+DTSTAMP:20261028T174844Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:Acto de premiación del 53.º Salón Nacional de Tucumán
+DESCRIPTION:Entrega de los reconocimientos del 53.º Salón Nacional de Tu
+ cumán. La inauguración de la reserva Spilimbergo (19:30) es solo para au
+ toridades\, con acceso restringido.\n\nMás info: https://www.instagram.co
+ m/p/De5F7TUoHIi/
+LOCATION:Museo Provincial de Bellas Artes Timoteo Navarro\, 9 de Julio 44\
+ , San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5F7TUoHIi/
+END:VEVENT
+END:VCALENDAR

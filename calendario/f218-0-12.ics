@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f218-0-12@gestor-cultural
+DTSTAMP:20261028T174838Z
+DTSTART:20261028T203000Z
+DTEND:20261028T223000Z
+SUMMARY:Street Fighter
+DESCRIPTION:Nueva película basada en la saga de videojuegos "Street Fight
+ er". Ambientada en 1993\, los alejados Street Fighters Ryu y Ken Masters s
+ on lanzados de nuevo al combate cuando la misteriosa Chun-Li los recluta p
+ ara el próximo Torneo Mundial de Guerreros: un brutal choque de puños\, 
+ destino y furia. Pero detrás de esta batalla se esconde una conspiración
+  mortal que los obliga a enfrentarse entre ellos y a los demonios de sus p
+ asados. Y si no lo hacen… ¡fin de la partida!\n\nMás info: https://www
+ .cineatlasweb.com.ar/pelicula/54/84b8f66324adcda7f7314e23de8cc60d
+LOCATION:Cine Atlas Monteagudo\, Monteagudo 250\, San Miguel de Tucumán
+URL:https://www.cineatlasweb.com.ar/pelicula/54/84b8f66324adcda7f7314e23de
+ 8cc60d
+END:VEVENT
+END:VCALENDAR

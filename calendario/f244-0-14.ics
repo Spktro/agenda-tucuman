@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f244-0-14@gestor-cultural
+DTSTAMP:20261028T174840Z
+DTSTART:20261028T224000Z
+DTEND:20261029T004000Z
+SUMMARY:Verity: La Sombra del Engaño
+DESCRIPTION:Adaptación de la novela bestseller de Colleen Hoover. La reco
+ nocida autora Verity Crawford toma a Lowen Ashleigh\, una escritora en dif
+ icultades que se muda a su remota finca para escribir en su nombre. Pero d
+ espués de que Lowen descubre lo que parecen ser las inquietantes notas au
+ tobiográficas de Verity\, se enfrenta a perturbadoras y retorcidas confes
+ iones sobre el esposo de Verity\, Jeremy\, mientras lucha por distinguir e
+ ntre la ficción y la realidad\, la manipulación y la atracción\, y la o
+ portunidad y la obsesión.\n\nMás info: https://www.cineatlasweb.com.ar/p
+ elicula/58/9a984cf6eaee0a5902b792c5f6f0d7a1
+LOCATION:Cine Atlas Vía 24\, 24 de Septiembre 757\, San Miguel de Tucumá
+ n
+URL:https://www.cineatlasweb.com.ar/pelicula/58/9a984cf6eaee0a5902b792c5f6
+ f0d7a1
+END:VEVENT
+END:VCALENDAR

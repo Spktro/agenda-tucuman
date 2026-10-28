@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-36-0@gestor-cultural
+DTSTAMP:20261028T174857Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Patio de comidas regionales
+DESCRIPTION:En el parque del museo\, puestos de gastronomía regional.\n\n
+ Más info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo Sanmartiniano de Tucumán - La Ramada de Abajo\, RP 304\, L
+ a Ramada de Abajo\, Burruyacú
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

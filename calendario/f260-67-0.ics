@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-67-0@gestor-cultural
+DTSTAMP:20261028T174859Z
+DTSTART:20261101T003000Z
+DTEND:20261101T023000Z
+SUMMARY:Coral Exun en vivo
+DESCRIPTION:Celebración de los 20 años del coro con repertorio académic
+ o y popular. Dirección del Mtro. Jorge Augusto Agudo.\n\nMás info: https
+ ://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Museo Colegio del Sagrado Corazón - Padres Lourdistas\, 25 de Ma
+ yo 680\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

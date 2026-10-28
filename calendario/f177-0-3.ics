@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f177-0-3@gestor-cultural
+DTSTAMP:20261028T174836Z
+DTSTART:20261031T010000Z
+DTEND:20261031T030000Z
+SUMMARY:Encuentro de Cine Europeo
+DESCRIPTION:Seis películas de distintos países de Europa\, todos los vie
+ rnes del 9 de octubre al 13 de noviembre.\n\nMás info: https://www.instag
+ ram.com/p/DeUoyHjlpod/
+LOCATION:Espacio INCAA\, Sala Hynes O'Connor\, San Martín 251\, San Migue
+ l de Tucumán
+URL:https://www.instagram.com/p/DeUoyHjlpod/
+END:VEVENT
+END:VCALENDAR

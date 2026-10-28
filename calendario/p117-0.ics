@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:p117-0@gestor-cultural
+DTSTAMP:20261028T174904Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Festival Plum 2026: 4.ª edición
+DESCRIPTION:Festival de animación con invitados y referentes del género.
+ \n\nMás info: https://www.instagram.com/p/DesgJUnm_tu/
+LOCATION:Tafí del Valle
+URL:https://www.instagram.com/p/DesgJUnm_tu/
+END:VEVENT
+END:VCALENDAR

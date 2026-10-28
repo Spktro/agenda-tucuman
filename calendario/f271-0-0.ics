@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f271-0-0@gestor-cultural
+DTSTAMP:20261028T174900Z
+DTSTART:20261106T220000Z
+DTEND:20261107T000000Z
+SUMMARY:Romina Muñoz presenta su colección de libros para las infancias
+DESCRIPTION:Presentación de la colección de libros infantiles de la titi
+ ritera Romina Muñoz\, a cargo de Laura García\, con lectura de cuentos d
+ e Luna Fernández.\n\nMás info: https://enteculturaltucuman.gob.ar/notici
+ as/romina-munoz-presentara-su-coleccion-de-libros-para-las-infancias-en-el
+ -museo-nicolas-avellaneda/
+LOCATION:Museo Histórico Provincial Nicolás Avellaneda\, Congreso 56\, S
+ an Miguel de Tucumán
+URL:https://enteculturaltucuman.gob.ar/noticias/romina-munoz-presentara-su
+ -coleccion-de-libros-para-las-infancias-en-el-museo-nicolas-avellaneda/
+END:VEVENT
+END:VCALENDAR

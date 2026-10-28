@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f247-7-0@gestor-cultural
+DTSTAMP:20261028T174842Z
+DTSTART:20261031T223000Z
+DTEND:20261101T003000Z
+SUMMARY:Música en vivo con Adrián Sosa
+DESCRIPTION:Música en vivo a cargo de Adrián Sosa\, sobrino de Mercedes 
+ Sosa.\n\nMás info: https://www.instagram.com/p/De9rhBkFh7Y/
+LOCATION:Museo Mercedes Sosa Casa Natal\, Pje. Calixto del Corro 344\, San
+  Miguel de Tucumán
+URL:https://www.instagram.com/p/De9rhBkFh7Y/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-7-0@gestor-cultural
+DTSTAMP:20261028T174900Z
+DTSTART:20261031T223000Z
+DTEND:20261101T003000Z
+SUMMARY:Ballet de Cámara Tucumán
+DESCRIPTION:Presentación del Ballet de Cámara Tucumán bajo la direcció
+ n de Sabrina Fresco.\n\nMás info: https://www.instagram.com/p/De5WbqMlKUg
+ /
+LOCATION:Museo Casa Padilla\, 25 de Mayo 36\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

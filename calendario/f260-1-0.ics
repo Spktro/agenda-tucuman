@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-1-0@gestor-cultural
+DTSTAMP:20261028T174854Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:Intervención escénico-musical sobre el Himno Nacional Argentino
+DESCRIPTION:En el primer patio\, intervención escénico-musical en tres a
+ ctos sobre aspectos desconocidos del Himno Nacional Argentino. Forma parte
+  de "Cinco modos de vivir un museo"\; la placa no da horario propio.\n\nM
+ ás info: https://www.instagram.com/p/De5WbqMlKUg/
+LOCATION:Casa Histórica - Museo Nacional de la Independencia\, Congreso 1
+ 41\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

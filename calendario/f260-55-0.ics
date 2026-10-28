@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-55-0@gestor-cultural
+DTSTAMP:20261028T174858Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:La Noche Embrujada: Ciencia o truco
+DESCRIPTION:Juego de preguntas y respuestas: si acertás\, te llevás un d
+ ulce\; si fallás\, te espera un truco.\n\nMás info: https://www.instagra
+ m.com/p/De5WbqMlKUg/
+LOCATION:Fundación Miguel Lillo - Museo Ciencias Naturales\, Miguel Lillo
+  251\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-20-0@gestor-cultural
+DTSTAMP:20261028T174846Z
+DTSTART:20261031T231500Z
+DTEND:20261101T011500Z
+SUMMARY:Waki Turay con coplas de ayer y hoy
+DESCRIPTION:Espacio invitado. Show de coplas del grupo Waki Turay\, a carg
+ o de María Luján Díaz. Hay traslado en un vehículo con capacidad para 
+ 18 personas.\n\nMás info: https://www.instagram.com/p/De_7BNFFKwQ/
+LOCATION:THAAUI Centro de Interpretación Arqueológica Tafí Viejo\, Host
+ ería Atahualpa Yupanqui\, Paysandú 2400\, Tafí Viejo
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f256-19-0@gestor-cultural
+DTSTAMP:20261028T174846Z
+DTSTART:20261031T223000Z
+DTEND:20261101T003000Z
+SUMMARY:El sonido de la tierra: ceremonias del Tafí
+DESCRIPTION:Espacio invitado. Visita guiada en THAAUI a cargo de la diseñ
+ adora Belén López y Sebastián Rodríguez. Hay traslado en un vehículo 
+ con capacidad para 18 personas.\n\nMás info: https://www.instagram.com/p/
+ De_7BNFFKwQ/
+LOCATION:THAAUI Centro de Interpretación Arqueológica Tafí Viejo\, Host
+ ería Atahualpa Yupanqui\, Paysandú 2400\, Tafí Viejo
+URL:https://www.instagram.com/p/De_7BNFFKwQ/
+END:VEVENT
+END:VCALENDAR

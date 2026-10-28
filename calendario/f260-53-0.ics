@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f260-53-0@gestor-cultural
+DTSTAMP:20261028T174858Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:Tierra\, manos y fuego
+DESCRIPTION:Taller demostrativo y participativo sobre saberes y técnicas 
+ de la cerámica originaria\, desde la arcilla hasta el objeto\, a cargo de
+  "Las Formas del Fuego"\, Escuela de Educación por el Arte. Coordina la L
+ ic. Dalila Nieves Gutiérrez.\n\nMás info: https://www.instagram.com/p/De
+ 5WbqMlKUg/
+LOCATION:Museo de Arqueología IAM - FCN - UNT\, 25 de Mayo 265 (Anexo Cen
+ tro Cultural Virla)\, San Miguel de Tucumán
+URL:https://www.instagram.com/p/De5WbqMlKUg/
+END:VEVENT
+END:VCALENDAR

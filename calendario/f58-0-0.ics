@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gestor Cultural//Agenda Tucuman//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f58-0-0@gestor-cultural
+DTSTAMP:20261028T174901Z
+DTSTART:20261108T203000Z
+DTEND:20261108T223000Z
+SUMMARY:Pulso: encuentro vegano
+DESCRIPTION:Encuentro vegano con gastronomía\, música en vivo\, arte y f
+ eria\, de 17:30 a 22:30.
+LOCATION:Círculo del Magisterio\, Las Heras 25\, San Miguel de Tucumán
+END:VEVENT
+END:VCALENDAR
